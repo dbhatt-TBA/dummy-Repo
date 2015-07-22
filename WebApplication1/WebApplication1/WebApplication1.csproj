@@ -62,6 +62,7 @@
     <Content Include="CSS\Style_3.css" />
     <Content Include="CSS\Style_4.css" />
     <Content Include="Login.aspx" />
+    <Content Include="Script\JavaScript_1.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
