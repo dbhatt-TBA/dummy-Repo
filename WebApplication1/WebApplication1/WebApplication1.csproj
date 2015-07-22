@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\Style.css" />
+    <Content Include="CSS\Style_2.css" />
     <Content Include="Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
